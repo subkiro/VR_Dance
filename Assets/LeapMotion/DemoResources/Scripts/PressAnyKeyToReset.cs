@@ -9,8 +9,8 @@ using System.Collections;
 
 public class PressAnyKeyToReset : MonoBehaviour {
 
-  void OnGUI() {
-        if (Event.current.type == EventType.KeyDown) 
-        Application.LoadLevel(Application.loadedLevel);
+  void OnGUI() {                                                                
+    if (Event.current.type == EventType.KeyDown)
+      Application.LoadLevel(Application.loadedLevel);
   } 
 }
