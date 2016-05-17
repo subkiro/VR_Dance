@@ -1,29 +1,38 @@
 ﻿using UnityEngine;
 using System.Collections;
+using Leap;
 
-public class rayFinger : MonoBehaviour {
+public class rayFinger : MonoBehaviour
+{
+
+    private GameObject button;
+    private Animator anim;
+
 
     void Update()
     {
+        GameObject RightHandController = GameObject.Find("Bip01 R Finger1Nub");
 
-        if (name == "Bip01 R Finger1Nub001")//right finger direction of raycast
+        if (RightHandController != null)//right finger direction of raycast
         {
-            Ray ray =  new Ray(transform.position, transform.TransformDirection(Vector3.left));
+            Ray ray = new Ray(RightHandController.transform.position, RightHandController.transform.TransformDirection(Vector3.right));
             RaycastHit hit;
             if (Physics.Raycast(ray, out hit, 1))
-                Debug.DrawLine(ray.origin, hit.point);
-            //print("Hit something!" + "with finger: " + name);
-        }
+            {
 
 
-        else //left finger direction of raycast
-        {
-            Ray ray = new Ray(transform.position, transform.TransformDirection(Vector3.right));
-            RaycastHit hit;
+                if (hit.collider.gameObject.name == ("Button"))
+                {
 
-            if (Physics.Raycast(ray, out hit, 1))
-                Debug.DrawLine(ray.origin, hit.point);
-                //print("Hit something!" + "with finger: " + name);
+                    button = hit.collider.gameObject;
+
+
+                    anim = button.GetComponent<Animator>();
+                    anim.SetBool("Normal", false);
+                    anim.SetBool("Highlighted", true);
+                    Debug.DrawLine(ray.origin, hit.point);
+                }
+            }
         }
     }
 }
