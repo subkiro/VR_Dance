@@ -26,9 +26,9 @@ public class clickableButton : MonoBehaviour
 
     void OnTriggerExit(Collider collision)
     {
-        anim.SetBool("Highlighted", false);
         anim.SetBool("Normal", true);
-       // anim.SetBool("Pressed", false);
+        anim.SetBool("Highlighted", false);
+        // anim.SetBool("Pressed", false);
     }
 
    
