@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 9530dcb328ba2a147966fa631341ea06
+timeCreated: 1463412072
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: West Elm_Tripod_Leg01
+    100004: West Elm_Tripod_Leg02
+    100006: West Elm_Tripod_Leg03
+    100008: West Elm_Tripod_Pad01
+    100010: West Elm_Tripod_Pad02
+    100012: West Elm_Tripod_Pad03
+    100014: West Elm_Tripod_Support
+    100016: West Elm_Tripod_Table
+    400000: //RootNode
+    400002: West Elm_Tripod_Leg01
+    400004: West Elm_Tripod_Leg02
+    400006: West Elm_Tripod_Leg03
+    400008: West Elm_Tripod_Pad01
+    400010: West Elm_Tripod_Pad02
+    400012: West Elm_Tripod_Pad03
+    400014: West Elm_Tripod_Support
+    400016: West Elm_Tripod_Table
+    2300000: West Elm_Tripod_Leg01
+    2300002: West Elm_Tripod_Leg02
+    2300004: West Elm_Tripod_Leg03
+    2300006: West Elm_Tripod_Pad01
+    2300008: West Elm_Tripod_Pad02
+    2300010: West Elm_Tripod_Pad03
+    2300012: West Elm_Tripod_Support
+    2300014: West Elm_Tripod_Table
+    3300000: West Elm_Tripod_Leg01
+    3300002: West Elm_Tripod_Leg02
+    3300004: West Elm_Tripod_Leg03
+    3300006: West Elm_Tripod_Pad01
+    3300008: West Elm_Tripod_Pad02
+    3300010: West Elm_Tripod_Pad03
+    3300012: West Elm_Tripod_Support
+    3300014: West Elm_Tripod_Table
+    4300000: West Elm_Tripod_Table
+    4300002: West Elm_Tripod_Leg03
+    4300004: West Elm_Tripod_Pad01
+    4300006: West Elm_Tripod_Pad02
+    4300008: West Elm_Tripod_Leg01
+    4300010: West Elm_Tripod_Pad03
+    4300012: West Elm_Tripod_Leg02
+    4300014: West Elm_Tripod_Support
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
