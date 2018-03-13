@@ -1,0 +1,831 @@
+fileFormatVersion: 2
+guid: d37a47ccf4ea6ac42b72ec9e18225aaf
+timeCreated: 1473771459
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: H_DDS_MidRes
+    100002: Hand Capture:Head
+    100004: Hand Capture:Hips
+    100006: Hand Capture:LeftArm
+    100008: Hand Capture:LeftFoot
+    100010: Hand Capture:LeftForeArm
+    100012: Hand Capture:LeftHand
+    100014: Hand Capture:LeftHandIndex1
+    100016: Hand Capture:LeftHandIndex2
+    100018: Hand Capture:LeftHandIndex3
+    100020: Hand Capture:LeftHandIndex4
+    100022: Hand Capture:LeftHandMiddle1
+    100024: Hand Capture:LeftHandMiddle2
+    100026: Hand Capture:LeftHandMiddle3
+    100028: Hand Capture:LeftHandMiddle4
+    100030: Hand Capture:LeftHandPinky1
+    100032: Hand Capture:LeftHandPinky2
+    100034: Hand Capture:LeftHandPinky3
+    100036: Hand Capture:LeftHandPinky4
+    100038: Hand Capture:LeftHandRing1
+    100040: Hand Capture:LeftHandRing2
+    100042: Hand Capture:LeftHandRing3
+    100044: Hand Capture:LeftHandRing4
+    100046: Hand Capture:LeftHandThumb1
+    100048: Hand Capture:LeftHandThumb2
+    100050: Hand Capture:LeftHandThumb3
+    100052: Hand Capture:LeftHandThumb4
+    100054: Hand Capture:LeftLeg
+    100056: Hand Capture:LeftShoulder
+    100058: Hand Capture:LeftToeBase
+    100060: Hand Capture:LeftUpLeg
+    100062: Hand Capture:Neck
+    100064: Hand Capture:Reference
+    100066: Hand Capture:RightArm
+    100068: Hand Capture:RightFoot
+    100070: Hand Capture:RightForeArm
+    100072: Hand Capture:RightHand
+    100074: Hand Capture:RightHandIndex1
+    100076: Hand Capture:RightHandIndex2
+    100078: Hand Capture:RightHandIndex3
+    100080: Hand Capture:RightHandIndex4
+    100082: Hand Capture:RightHandMiddle1
+    100084: Hand Capture:RightHandMiddle2
+    100086: Hand Capture:RightHandMiddle3
+    100088: Hand Capture:RightHandMiddle4
+    100090: Hand Capture:RightHandPinky1
+    100092: Hand Capture:RightHandPinky2
+    100094: Hand Capture:RightHandPinky3
+    100096: Hand Capture:RightHandPinky4
+    100098: Hand Capture:RightHandRing1
+    100100: Hand Capture:RightHandRing2
+    100102: Hand Capture:RightHandRing3
+    100104: Hand Capture:RightHandRing4
+    100106: Hand Capture:RightHandThumb1
+    100108: Hand Capture:RightHandThumb2
+    100110: Hand Capture:RightHandThumb3
+    100112: Hand Capture:RightHandThumb4
+    100114: Hand Capture:RightLeg
+    100116: Hand Capture:RightShoulder
+    100118: Hand Capture:RightToeBase
+    100120: Hand Capture:RightUpLeg
+    100122: Hand Capture:Spine
+    100124: Hand Capture:Spine1
+    100126: Hand Capture:Spine2
+    100128: Head
+    100130: HeadEnd
+    100132: Hips
+    100134: LeftArm
+    100136: LeftEye
+    100138: LeftFingerBase
+    100140: LeftFoot
+    100142: LeftForeArm
+    100144: LeftHand
+    100146: LeftHandIndex0
+    100148: LeftHandIndex1
+    100150: LeftHandIndex2
+    100152: LeftHandIndex3
+    100154: LeftHandIndex4
+    100156: LeftHandMiddle1
+    100158: LeftHandMiddle2
+    100160: LeftHandMiddle3
+    100162: LeftHandMiddle4
+    100164: LeftHandPinky0
+    100166: LeftHandPinky1
+    100168: LeftHandPinky2
+    100170: LeftHandPinky3
+    100172: LeftHandPinky4
+    100174: LeftHandRing1
+    100176: LeftHandRing2
+    100178: LeftHandRing3
+    100180: LeftHandRing4
+    100182: LeftHandThumb1
+    100184: LeftHandThumb2
+    100186: LeftHandThumb3
+    100188: LeftHandThumb4
+    100190: LeftLeg
+    100192: LeftShoulder
+    100194: LeftToeBase
+    100196: LeftToeEnd
+    100198: LeftUpLeg
+    100200: m_L_eye
+    100202: m_L_gland
+    100204: m_L_trans
+    100206: m_R_eye
+    100208: m_R_gland
+    100210: m_R_trans
+    100212: m_TeethDown
+    100214: m_TeethUp
+    100216: master
+    100218: //RootNode
+    100220: Neck
+    100222: Reference
+    100224: RightArm
+    100226: RightEye
+    100228: RightFingerBase
+    100230: RightFoot
+    100232: RightForeArm
+    100234: RightHand
+    100236: RightHandIndex0
+    100238: RightHandIndex1
+    100240: RightHandIndex2
+    100242: RightHandIndex3
+    100244: RightHandIndex4
+    100246: RightHandMiddle1
+    100248: RightHandMiddle2
+    100250: RightHandMiddle3
+    100252: RightHandMiddle4
+    100254: RightHandPinky0
+    100256: RightHandPinky1
+    100258: RightHandPinky2
+    100260: RightHandPinky3
+    100262: RightHandPinky4
+    100264: RightHandRing1
+    100266: RightHandRing2
+    100268: RightHandRing3
+    100270: RightHandRing4
+    100272: RightHandThumb1
+    100274: RightHandThumb2
+    100276: RightHandThumb3
+    100278: RightHandThumb4
+    100280: RightLeg
+    100282: RightShoulder
+    100284: RightToeBase
+    100286: RightToeEnd
+    100288: RightUpLeg
+    100290: Spine
+    100292: Spine1
+    100294: Spine2
+    400000: H_DDS_MidRes
+    400002: Hand Capture:Head
+    400004: Hand Capture:Hips
+    400006: Hand Capture:LeftArm
+    400008: Hand Capture:LeftFoot
+    400010: Hand Capture:LeftForeArm
+    400012: Hand Capture:LeftHand
+    400014: Hand Capture:LeftHandIndex1
+    400016: Hand Capture:LeftHandIndex2
+    400018: Hand Capture:LeftHandIndex3
+    400020: Hand Capture:LeftHandIndex4
+    400022: Hand Capture:LeftHandMiddle1
+    400024: Hand Capture:LeftHandMiddle2
+    400026: Hand Capture:LeftHandMiddle3
+    400028: Hand Capture:LeftHandMiddle4
+    400030: Hand Capture:LeftHandPinky1
+    400032: Hand Capture:LeftHandPinky2
+    400034: Hand Capture:LeftHandPinky3
+    400036: Hand Capture:LeftHandPinky4
+    400038: Hand Capture:LeftHandRing1
+    400040: Hand Capture:LeftHandRing2
+    400042: Hand Capture:LeftHandRing3
+    400044: Hand Capture:LeftHandRing4
+    400046: Hand Capture:LeftHandThumb1
+    400048: Hand Capture:LeftHandThumb2
+    400050: Hand Capture:LeftHandThumb3
+    400052: Hand Capture:LeftHandThumb4
+    400054: Hand Capture:LeftLeg
+    400056: Hand Capture:LeftShoulder
+    400058: Hand Capture:LeftToeBase
+    400060: Hand Capture:LeftUpLeg
+    400062: Hand Capture:Neck
+    400064: Hand Capture:Reference
+    400066: Hand Capture:RightArm
+    400068: Hand Capture:RightFoot
+    400070: Hand Capture:RightForeArm
+    400072: Hand Capture:RightHand
+    400074: Hand Capture:RightHandIndex1
+    400076: Hand Capture:RightHandIndex2
+    400078: Hand Capture:RightHandIndex3
+    400080: Hand Capture:RightHandIndex4
+    400082: Hand Capture:RightHandMiddle1
+    400084: Hand Capture:RightHandMiddle2
+    400086: Hand Capture:RightHandMiddle3
+    400088: Hand Capture:RightHandMiddle4
+    400090: Hand Capture:RightHandPinky1
+    400092: Hand Capture:RightHandPinky2
+    400094: Hand Capture:RightHandPinky3
+    400096: Hand Capture:RightHandPinky4
+    400098: Hand Capture:RightHandRing1
+    400100: Hand Capture:RightHandRing2
+    400102: Hand Capture:RightHandRing3
+    400104: Hand Capture:RightHandRing4
+    400106: Hand Capture:RightHandThumb1
+    400108: Hand Capture:RightHandThumb2
+    400110: Hand Capture:RightHandThumb3
+    400112: Hand Capture:RightHandThumb4
+    400114: Hand Capture:RightLeg
+    400116: Hand Capture:RightShoulder
+    400118: Hand Capture:RightToeBase
+    400120: Hand Capture:RightUpLeg
+    400122: Hand Capture:Spine
+    400124: Hand Capture:Spine1
+    400126: Hand Capture:Spine2
+    400128: Head
+    400130: HeadEnd
+    400132: Hips
+    400134: LeftArm
+    400136: LeftEye
+    400138: LeftFingerBase
+    400140: LeftFoot
+    400142: LeftForeArm
+    400144: LeftHand
+    400146: LeftHandIndex0
+    400148: LeftHandIndex1
+    400150: LeftHandIndex2
+    400152: LeftHandIndex3
+    400154: LeftHandIndex4
+    400156: LeftHandMiddle1
+    400158: LeftHandMiddle2
+    400160: LeftHandMiddle3
+    400162: LeftHandMiddle4
+    400164: LeftHandPinky0
+    400166: LeftHandPinky1
+    400168: LeftHandPinky2
+    400170: LeftHandPinky3
+    400172: LeftHandPinky4
+    400174: LeftHandRing1
+    400176: LeftHandRing2
+    400178: LeftHandRing3
+    400180: LeftHandRing4
+    400182: LeftHandThumb1
+    400184: LeftHandThumb2
+    400186: LeftHandThumb3
+    400188: LeftHandThumb4
+    400190: LeftLeg
+    400192: LeftShoulder
+    400194: LeftToeBase
+    400196: LeftToeEnd
+    400198: LeftUpLeg
+    400200: m_L_eye
+    400202: m_L_gland
+    400204: m_L_trans
+    400206: m_R_eye
+    400208: m_R_gland
+    400210: m_R_trans
+    400212: m_TeethDown
+    400214: m_TeethUp
+    400216: master
+    400218: //RootNode
+    400220: Neck
+    400222: Reference
+    400224: RightArm
+    400226: RightEye
+    400228: RightFingerBase
+    400230: RightFoot
+    400232: RightForeArm
+    400234: RightHand
+    400236: RightHandIndex0
+    400238: RightHandIndex1
+    400240: RightHandIndex2
+    400242: RightHandIndex3
+    400244: RightHandIndex4
+    400246: RightHandMiddle1
+    400248: RightHandMiddle2
+    400250: RightHandMiddle3
+    400252: RightHandMiddle4
+    400254: RightHandPinky0
+    400256: RightHandPinky1
+    400258: RightHandPinky2
+    400260: RightHandPinky3
+    400262: RightHandPinky4
+    400264: RightHandRing1
+    400266: RightHandRing2
+    400268: RightHandRing3
+    400270: RightHandRing4
+    400272: RightHandThumb1
+    400274: RightHandThumb2
+    400276: RightHandThumb3
+    400278: RightHandThumb4
+    400280: RightLeg
+    400282: RightShoulder
+    400284: RightToeBase
+    400286: RightToeEnd
+    400288: RightUpLeg
+    400290: Spine
+    400292: Spine1
+    400294: Spine2
+    4300000: m_TeethDown
+    4300002: m_TeethUp
+    4300004: m_L_gland
+    4300006: m_L_eye
+    4300008: m_L_trans
+    4300010: m_R_gland
+    4300012: m_R_eye
+    4300014: m_R_trans
+    4300016: H_DDS_MidRes
+    7400000: Take 001
+    7400002: waving
+    9500000: //RootNode
+    13700000: H_DDS_MidRes
+    13700002: m_L_eye
+    13700004: m_L_gland
+    13700006: m_L_trans
+    13700008: m_R_eye
+    13700010: m_R_gland
+    13700012: m_R_trans
+    13700014: m_TeethDown
+    13700016: m_TeethUp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: waving
+      takeName: Take 001
+      firstFrame: 57
+      lastFrame: 332
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: H_DDS_MidRes
+        weight: 1
+      - path: Hand Capture:Reference
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:LeftUpLeg
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:LeftUpLeg/Hand
+          Capture:LeftLeg
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:LeftUpLeg/Hand
+          Capture:LeftLeg/Hand Capture:LeftFoot
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:LeftUpLeg/Hand
+          Capture:LeftLeg/Hand Capture:LeftFoot/Hand Capture:LeftToeBase
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:RightUpLeg
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:RightUpLeg/Hand
+          Capture:RightLeg
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:RightUpLeg/Hand
+          Capture:RightLeg/Hand Capture:RightFoot
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:RightUpLeg/Hand
+          Capture:RightLeg/Hand Capture:RightFoot/Hand Capture:RightToeBase
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandIndex1
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandIndex1/Hand Capture:LeftHandIndex2
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandIndex1/Hand Capture:LeftHandIndex2/Hand
+          Capture:LeftHandIndex3
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandIndex1/Hand Capture:LeftHandIndex2/Hand
+          Capture:LeftHandIndex3/Hand Capture:LeftHandIndex4
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandMiddle1
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandMiddle1/Hand Capture:LeftHandMiddle2
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandMiddle1/Hand Capture:LeftHandMiddle2/Hand
+          Capture:LeftHandMiddle3
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandMiddle1/Hand Capture:LeftHandMiddle2/Hand
+          Capture:LeftHandMiddle3/Hand Capture:LeftHandMiddle4
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandPinky1
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandPinky1/Hand Capture:LeftHandPinky2
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandPinky1/Hand Capture:LeftHandPinky2/Hand
+          Capture:LeftHandPinky3
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandPinky1/Hand Capture:LeftHandPinky2/Hand
+          Capture:LeftHandPinky3/Hand Capture:LeftHandPinky4
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandRing1
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandRing1/Hand Capture:LeftHandRing2
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandRing1/Hand Capture:LeftHandRing2/Hand
+          Capture:LeftHandRing3
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandRing1/Hand Capture:LeftHandRing2/Hand
+          Capture:LeftHandRing3/Hand Capture:LeftHandRing4
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandThumb1
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandThumb1/Hand Capture:LeftHandThumb2
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandThumb1/Hand Capture:LeftHandThumb2/Hand
+          Capture:LeftHandThumb3
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:LeftShoulder/Hand Capture:LeftArm/Hand Capture:LeftForeArm/Hand
+          Capture:LeftHand/Hand Capture:LeftHandThumb1/Hand Capture:LeftHandThumb2/Hand
+          Capture:LeftHandThumb3/Hand Capture:LeftHandThumb4
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:Neck
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:Neck/Hand Capture:Head
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandIndex1
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandIndex1/Hand Capture:RightHandIndex2
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandIndex1/Hand Capture:RightHandIndex2/Hand
+          Capture:RightHandIndex3
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandIndex1/Hand Capture:RightHandIndex2/Hand
+          Capture:RightHandIndex3/Hand Capture:RightHandIndex4
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandMiddle1
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandMiddle1/Hand Capture:RightHandMiddle2
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandMiddle1/Hand Capture:RightHandMiddle2/Hand
+          Capture:RightHandMiddle3
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandMiddle1/Hand Capture:RightHandMiddle2/Hand
+          Capture:RightHandMiddle3/Hand Capture:RightHandMiddle4
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandPinky1
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandPinky1/Hand Capture:RightHandPinky2
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandPinky1/Hand Capture:RightHandPinky2/Hand
+          Capture:RightHandPinky3
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandPinky1/Hand Capture:RightHandPinky2/Hand
+          Capture:RightHandPinky3/Hand Capture:RightHandPinky4
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandRing1
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandRing1/Hand Capture:RightHandRing2
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandRing1/Hand Capture:RightHandRing2/Hand
+          Capture:RightHandRing3
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandRing1/Hand Capture:RightHandRing2/Hand
+          Capture:RightHandRing3/Hand Capture:RightHandRing4
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandThumb1
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandThumb1/Hand Capture:RightHandThumb2
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandThumb1/Hand Capture:RightHandThumb2/Hand
+          Capture:RightHandThumb3
+        weight: 1
+      - path: Hand Capture:Reference/Hand Capture:Hips/Hand Capture:Spine/Hand Capture:Spine1/Hand
+          Capture:Spine2/Hand Capture:RightShoulder/Hand Capture:RightArm/Hand Capture:RightForeArm/Hand
+          Capture:RightHand/Hand Capture:RightHandThumb1/Hand Capture:RightHandThumb2/Hand
+          Capture:RightHandThumb3/Hand Capture:RightHandThumb4
+        weight: 1
+      - path: m_L_eye
+        weight: 1
+      - path: m_L_gland
+        weight: 1
+      - path: m_L_trans
+        weight: 1
+      - path: m_R_eye
+        weight: 1
+      - path: m_R_gland
+        weight: 1
+      - path: m_R_trans
+        weight: 1
+      - path: m_TeethDown
+        weight: 1
+      - path: m_TeethUp
+        weight: 1
+      - path: master
+        weight: 1
+      - path: master/Reference
+        weight: 1
+      - path: master/Reference/Hips
+        weight: 1
+      - path: master/Reference/Hips/LeftUpLeg
+        weight: 1
+      - path: master/Reference/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: master/Reference/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: master/Reference/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+        weight: 1
+      - path: master/Reference/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftToeEnd
+        weight: 1
+      - path: master/Reference/Hips/RightUpLeg
+        weight: 1
+      - path: master/Reference/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: master/Reference/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: master/Reference/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+        weight: 1
+      - path: master/Reference/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightToeEnd
+        weight: 1
+      - path: master/Reference/Hips/Spine
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandIndex0
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandIndex0/LeftHandIndex1
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandIndex0/LeftHandIndex1/LeftHandIndex2
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandIndex0/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandIndex0/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3/LeftHandIndex4
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandMiddle1
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandMiddle1/LeftHandMiddle2
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3/LeftHandMiddle4
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandPinky0
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandPinky0/LeftHandPinky1
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandPinky0/LeftHandPinky1/LeftHandPinky2
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandPinky0/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandPinky0/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3/LeftHandPinky4
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandRing1
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandRing1/LeftHandRing2
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandRing1/LeftHandRing2/LeftHandRing3
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandRing1/LeftHandRing2/LeftHandRing3/LeftHandRing4
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandThumb1
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandThumb1/LeftHandThumb2
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3/LeftHandThumb4
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/Neck/Head/HeadEnd
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/Neck/Head/LeftEye
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/Neck/Head/RightEye
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandIndex0
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandIndex0/RightHandIndex1
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandIndex0/RightHandIndex1/RightHandIndex2
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandIndex0/RightHandIndex1/RightHandIndex2/RightHandIndex3
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandIndex0/RightHandIndex1/RightHandIndex2/RightHandIndex3/RightHandIndex4
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandMiddle1
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandMiddle1/RightHandMiddle2
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3/RightHandMiddle4
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandPinky0
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandPinky0/RightHandPinky1
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandPinky0/RightHandPinky1/RightHandPinky2
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandPinky0/RightHandPinky1/RightHandPinky2/RightHandPinky3
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandPinky0/RightHandPinky1/RightHandPinky2/RightHandPinky3/RightHandPinky4
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandRing1
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandRing1/RightHandRing2
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandRing1/RightHandRing2/RightHandRing3
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandRing1/RightHandRing2/RightHandRing3/RightHandRing4
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandThumb1
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandThumb1/RightHandThumb2
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandThumb1/RightHandThumb2/RightHandThumb3
+        weight: 1
+      - path: master/Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightFingerBase/RightHandThumb1/RightHandThumb2/RightHandThumb3/RightHandThumb4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

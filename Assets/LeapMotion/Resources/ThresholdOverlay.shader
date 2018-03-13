@@ -1,4 +1,6 @@
-﻿Shader "LeapMotion/Passthrough/ThresholdOverlay" {
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+Shader "LeapMotion/Passthrough/ThresholdOverlay" {
   Properties {
     _Min ("Min Brightness", Range(0, 1)) = 0.1
     _Max ("Max Brightness", Range(0, 1)) = 0.3
@@ -34,8 +36,8 @@
 
     frag_in vert(appdata_img v){
       frag_in o;
-      o.position = mul(UNITY_MATRIX_MVP, v.vertex);
-      o.screenPos = ComputeScreenPos(o.position);
+      o.position = UnityObjectToClipPos(v.vertex);
+      o.screenPos = LeapGetWarpedScreenPos(o.position);
       return o;
     }
 
@@ -44,9 +46,10 @@
     uniform float _Fade;
 
     float4 frag (frag_in i) : COLOR {
-      float4 colorBrightness = LeapRawColorBrightnessWarp(i.screenPos);
-      float alpha = _Fade * smoothstep(_Min, _Max, colorBrightness.a);
-      return float4(pow(colorBrightness.rgb, _LeapGammaCorrectionExponent)*alpha, alpha);
+      float3 color = LeapGetStereoColor(i.screenPos);
+      float brightness = LeapGetStereoBrightness(i.screenPos);
+      float alpha = _Fade * smoothstep(_Min, _Max, brightness);
+      return float4(color, alpha);
     }
 
     ENDCG

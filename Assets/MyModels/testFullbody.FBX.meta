@@ -1,0 +1,1799 @@
+fileFormatVersion: 2
+guid: ff760f5091dfc034680f85f22b22a823
+timeCreated: 1474987501
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Character_Ctrl:ChestEndEffector
+    100002: Character_Ctrl:ChestOriginEffector
+    100004: Character_Ctrl:Head
+    100006: Character_Ctrl:HeadEffector
+    100008: Character_Ctrl:Hips
+    100010: Character_Ctrl:HipsEffector
+    100012: Character_Ctrl:LeftAnkleEffector
+    100014: Character_Ctrl:LeftArm
+    100016: Character_Ctrl:LeftElbowEffector
+    100018: Character_Ctrl:LeftFingerBase
+    100020: Character_Ctrl:LeftFoot
+    100022: Character_Ctrl:LeftFootEffector
+    100024: Character_Ctrl:LeftForeArm
+    100026: Character_Ctrl:LeftHand
+    100028: Character_Ctrl:LeftHandEffector
+    100030: Character_Ctrl:LeftHandIndex1
+    100032: Character_Ctrl:LeftHandIndex2
+    100034: Character_Ctrl:LeftHandIndex3
+    100036: Character_Ctrl:LeftHandIndex4
+    100038: Character_Ctrl:LeftHandIndexEffector
+    100040: Character_Ctrl:LeftHandMiddle1
+    100042: Character_Ctrl:LeftHandMiddle2
+    100044: Character_Ctrl:LeftHandMiddle3
+    100046: Character_Ctrl:LeftHandMiddle4
+    100048: Character_Ctrl:LeftHandMiddleEffector
+    100050: Character_Ctrl:LeftHandPinky1
+    100052: Character_Ctrl:LeftHandPinky2
+    100054: Character_Ctrl:LeftHandPinky3
+    100056: Character_Ctrl:LeftHandPinky4
+    100058: Character_Ctrl:LeftHandPinkyEffector
+    100060: Character_Ctrl:LeftHandRing1
+    100062: Character_Ctrl:LeftHandRing2
+    100064: Character_Ctrl:LeftHandRing3
+    100066: Character_Ctrl:LeftHandRing4
+    100068: Character_Ctrl:LeftHandRingEffector
+    100070: Character_Ctrl:LeftHandThumb1
+    100072: Character_Ctrl:LeftHandThumb2
+    100074: Character_Ctrl:LeftHandThumb3
+    100076: Character_Ctrl:LeftHandThumb4
+    100078: Character_Ctrl:LeftHandThumbEffector
+    100080: Character_Ctrl:LeftHipEffector
+    100082: Character_Ctrl:LeftKneeEffector
+    100084: Character_Ctrl:LeftLeg
+    100086: Character_Ctrl:LeftShoulder
+    100088: Character_Ctrl:LeftShoulderEffector
+    100090: Character_Ctrl:LeftToeBase
+    100092: Character_Ctrl:LeftUpLeg
+    100094: Character_Ctrl:LeftWristEffector
+    100096: Character_Ctrl:Neck
+    100098: Character_Ctrl:Reference
+    100100: Character_Ctrl:RightAnkleEffector
+    100102: Character_Ctrl:RightArm
+    100104: Character_Ctrl:RightElbowEffector
+    100106: Character_Ctrl:RightFingerBase
+    100108: Character_Ctrl:RightFoot
+    100110: Character_Ctrl:RightFootEffector
+    100112: Character_Ctrl:RightForeArm
+    100114: Character_Ctrl:RightHand
+    100116: Character_Ctrl:RightHandEffector
+    100118: Character_Ctrl:RightHandIndex1
+    100120: Character_Ctrl:RightHandIndex2
+    100122: Character_Ctrl:RightHandIndex3
+    100124: Character_Ctrl:RightHandIndex4
+    100126: Character_Ctrl:RightHandIndexEffector
+    100128: Character_Ctrl:RightHandMiddle1
+    100130: Character_Ctrl:RightHandMiddle2
+    100132: Character_Ctrl:RightHandMiddle3
+    100134: Character_Ctrl:RightHandMiddle4
+    100136: Character_Ctrl:RightHandMiddleEffector
+    100138: Character_Ctrl:RightHandPinky1
+    100140: Character_Ctrl:RightHandPinky2
+    100142: Character_Ctrl:RightHandPinky3
+    100144: Character_Ctrl:RightHandPinky4
+    100146: Character_Ctrl:RightHandPinkyEffector
+    100148: Character_Ctrl:RightHandRing1
+    100150: Character_Ctrl:RightHandRing2
+    100152: Character_Ctrl:RightHandRing3
+    100154: Character_Ctrl:RightHandRing4
+    100156: Character_Ctrl:RightHandRingEffector
+    100158: Character_Ctrl:RightHandThumb1
+    100160: Character_Ctrl:RightHandThumb2
+    100162: Character_Ctrl:RightHandThumb3
+    100164: Character_Ctrl:RightHandThumb4
+    100166: Character_Ctrl:RightHandThumbEffector
+    100168: Character_Ctrl:RightHipEffector
+    100170: Character_Ctrl:RightKneeEffector
+    100172: Character_Ctrl:RightLeg
+    100174: Character_Ctrl:RightShoulder
+    100176: Character_Ctrl:RightShoulderEffector
+    100178: Character_Ctrl:RightToeBase
+    100180: Character_Ctrl:RightUpLeg
+    100182: Character_Ctrl:RightWristEffector
+    100184: Character_Ctrl:Spine
+    100186: Character_Ctrl:Spine1
+    100188: Character_Ctrl:Spine2
+    100190: Fullodydance:Character_Ctrl:ChestEndEffector
+    100192: Fullodydance:Character_Ctrl:ChestOriginEffector
+    100194: Fullodydance:Character_Ctrl:Head
+    100196: Fullodydance:Character_Ctrl:HeadEffector
+    100198: Fullodydance:Character_Ctrl:Hips
+    100200: Fullodydance:Character_Ctrl:HipsEffector
+    100202: Fullodydance:Character_Ctrl:LeftAnkleEffector
+    100204: Fullodydance:Character_Ctrl:LeftArm
+    100206: Fullodydance:Character_Ctrl:LeftElbowEffector
+    100208: Fullodydance:Character_Ctrl:LeftFingerBase
+    100210: Fullodydance:Character_Ctrl:LeftFoot
+    100212: Fullodydance:Character_Ctrl:LeftFootEffector
+    100214: Fullodydance:Character_Ctrl:LeftForeArm
+    100216: Fullodydance:Character_Ctrl:LeftHand
+    100218: Fullodydance:Character_Ctrl:LeftHandEffector
+    100220: Fullodydance:Character_Ctrl:LeftHandIndex1
+    100222: Fullodydance:Character_Ctrl:LeftHandIndex2
+    100224: Fullodydance:Character_Ctrl:LeftHandIndex3
+    100226: Fullodydance:Character_Ctrl:LeftHandIndex4
+    100228: Fullodydance:Character_Ctrl:LeftHandIndexEffector
+    100230: Fullodydance:Character_Ctrl:LeftHandMiddle1
+    100232: Fullodydance:Character_Ctrl:LeftHandMiddle2
+    100234: Fullodydance:Character_Ctrl:LeftHandMiddle3
+    100236: Fullodydance:Character_Ctrl:LeftHandMiddle4
+    100238: Fullodydance:Character_Ctrl:LeftHandMiddleEffector
+    100240: Fullodydance:Character_Ctrl:LeftHandPinky1
+    100242: Fullodydance:Character_Ctrl:LeftHandPinky2
+    100244: Fullodydance:Character_Ctrl:LeftHandPinky3
+    100246: Fullodydance:Character_Ctrl:LeftHandPinky4
+    100248: Fullodydance:Character_Ctrl:LeftHandPinkyEffector
+    100250: Fullodydance:Character_Ctrl:LeftHandRing1
+    100252: Fullodydance:Character_Ctrl:LeftHandRing2
+    100254: Fullodydance:Character_Ctrl:LeftHandRing3
+    100256: Fullodydance:Character_Ctrl:LeftHandRing4
+    100258: Fullodydance:Character_Ctrl:LeftHandRingEffector
+    100260: Fullodydance:Character_Ctrl:LeftHandThumb1
+    100262: Fullodydance:Character_Ctrl:LeftHandThumb2
+    100264: Fullodydance:Character_Ctrl:LeftHandThumb3
+    100266: Fullodydance:Character_Ctrl:LeftHandThumb4
+    100268: Fullodydance:Character_Ctrl:LeftHandThumbEffector
+    100270: Fullodydance:Character_Ctrl:LeftHipEffector
+    100272: Fullodydance:Character_Ctrl:LeftKneeEffector
+    100274: Fullodydance:Character_Ctrl:LeftLeg
+    100276: Fullodydance:Character_Ctrl:LeftShoulder
+    100278: Fullodydance:Character_Ctrl:LeftShoulderEffector
+    100280: Fullodydance:Character_Ctrl:LeftToeBase
+    100282: Fullodydance:Character_Ctrl:LeftUpLeg
+    100284: Fullodydance:Character_Ctrl:LeftWristEffector
+    100286: Fullodydance:Character_Ctrl:Neck
+    100288: Fullodydance:Character_Ctrl:Reference
+    100290: Fullodydance:Character_Ctrl:RightAnkleEffector
+    100292: Fullodydance:Character_Ctrl:RightArm
+    100294: Fullodydance:Character_Ctrl:RightElbowEffector
+    100296: Fullodydance:Character_Ctrl:RightFingerBase
+    100298: Fullodydance:Character_Ctrl:RightFoot
+    100300: Fullodydance:Character_Ctrl:RightFootEffector
+    100302: Fullodydance:Character_Ctrl:RightForeArm
+    100304: Fullodydance:Character_Ctrl:RightHand
+    100306: Fullodydance:Character_Ctrl:RightHandEffector
+    100308: Fullodydance:Character_Ctrl:RightHandIndex1
+    100310: Fullodydance:Character_Ctrl:RightHandIndex2
+    100312: Fullodydance:Character_Ctrl:RightHandIndex3
+    100314: Fullodydance:Character_Ctrl:RightHandIndex4
+    100316: Fullodydance:Character_Ctrl:RightHandIndexEffector
+    100318: Fullodydance:Character_Ctrl:RightHandMiddle1
+    100320: Fullodydance:Character_Ctrl:RightHandMiddle2
+    100322: Fullodydance:Character_Ctrl:RightHandMiddle3
+    100324: Fullodydance:Character_Ctrl:RightHandMiddle4
+    100326: Fullodydance:Character_Ctrl:RightHandMiddleEffector
+    100328: Fullodydance:Character_Ctrl:RightHandPinky1
+    100330: Fullodydance:Character_Ctrl:RightHandPinky2
+    100332: Fullodydance:Character_Ctrl:RightHandPinky3
+    100334: Fullodydance:Character_Ctrl:RightHandPinky4
+    100336: Fullodydance:Character_Ctrl:RightHandPinkyEffector
+    100338: Fullodydance:Character_Ctrl:RightHandRing1
+    100340: Fullodydance:Character_Ctrl:RightHandRing2
+    100342: Fullodydance:Character_Ctrl:RightHandRing3
+    100344: Fullodydance:Character_Ctrl:RightHandRing4
+    100346: Fullodydance:Character_Ctrl:RightHandRingEffector
+    100348: Fullodydance:Character_Ctrl:RightHandThumb1
+    100350: Fullodydance:Character_Ctrl:RightHandThumb2
+    100352: Fullodydance:Character_Ctrl:RightHandThumb3
+    100354: Fullodydance:Character_Ctrl:RightHandThumb4
+    100356: Fullodydance:Character_Ctrl:RightHandThumbEffector
+    100358: Fullodydance:Character_Ctrl:RightHipEffector
+    100360: Fullodydance:Character_Ctrl:RightKneeEffector
+    100362: Fullodydance:Character_Ctrl:RightLeg
+    100364: Fullodydance:Character_Ctrl:RightShoulder
+    100366: Fullodydance:Character_Ctrl:RightShoulderEffector
+    100368: Fullodydance:Character_Ctrl:RightToeBase
+    100370: Fullodydance:Character_Ctrl:RightUpLeg
+    100372: Fullodydance:Character_Ctrl:RightWristEffector
+    100374: Fullodydance:Character_Ctrl:Spine
+    100376: Fullodydance:Character_Ctrl:Spine1
+    100378: Fullodydance:Character_Ctrl:Spine2
+    100380: Fullodydance:H_DDS_MidRes
+    100382: Fullodydance:Head
+    100384: Fullodydance:HeadEnd
+    100386: Fullodydance:Hips
+    100388: Fullodydance:LeftArm
+    100390: Fullodydance:LeftEye
+    100392: Fullodydance:LeftFingerBase
+    100394: Fullodydance:LeftFoot
+    100396: Fullodydance:LeftForeArm
+    100398: Fullodydance:LeftHand
+    100400: Fullodydance:LeftHandIndex0
+    100402: Fullodydance:LeftHandIndex1
+    100404: Fullodydance:LeftHandIndex2
+    100406: Fullodydance:LeftHandIndex3
+    100408: Fullodydance:LeftHandIndex4
+    100410: Fullodydance:LeftHandMiddle1
+    100412: Fullodydance:LeftHandMiddle2
+    100414: Fullodydance:LeftHandMiddle3
+    100416: Fullodydance:LeftHandMiddle4
+    100418: Fullodydance:LeftHandPinky0
+    100420: Fullodydance:LeftHandPinky1
+    100422: Fullodydance:LeftHandPinky2
+    100424: Fullodydance:LeftHandPinky3
+    100426: Fullodydance:LeftHandPinky4
+    100428: Fullodydance:LeftHandRing1
+    100430: Fullodydance:LeftHandRing2
+    100432: Fullodydance:LeftHandRing3
+    100434: Fullodydance:LeftHandRing4
+    100436: Fullodydance:LeftHandThumb1
+    100438: Fullodydance:LeftHandThumb2
+    100440: Fullodydance:LeftHandThumb3
+    100442: Fullodydance:LeftHandThumb4
+    100444: Fullodydance:LeftLeg
+    100446: Fullodydance:LeftShoulder
+    100448: Fullodydance:LeftToeBase
+    100450: Fullodydance:LeftToeEnd
+    100452: Fullodydance:LeftUpLeg
+    100454: Fullodydance:m_L_eye
+    100456: Fullodydance:m_L_gland
+    100458: Fullodydance:m_L_trans
+    100460: Fullodydance:m_R_eye
+    100462: Fullodydance:m_R_gland
+    100464: Fullodydance:m_R_trans
+    100466: Fullodydance:m_TeethDown
+    100468: Fullodydance:m_TeethUp
+    100470: Fullodydance:master
+    100472: Fullodydance:Neck
+    100474: Fullodydance:Reference
+    100476: Fullodydance:RightArm
+    100478: Fullodydance:RightEye
+    100480: Fullodydance:RightFingerBase
+    100482: Fullodydance:RightFoot
+    100484: Fullodydance:RightForeArm
+    100486: Fullodydance:RightHand
+    100488: Fullodydance:RightHandIndex0
+    100490: Fullodydance:RightHandIndex1
+    100492: Fullodydance:RightHandIndex2
+    100494: Fullodydance:RightHandIndex3
+    100496: Fullodydance:RightHandIndex4
+    100498: Fullodydance:RightHandMiddle1
+    100500: Fullodydance:RightHandMiddle2
+    100502: Fullodydance:RightHandMiddle3
+    100504: Fullodydance:RightHandMiddle4
+    100506: Fullodydance:RightHandPinky0
+    100508: Fullodydance:RightHandPinky1
+    100510: Fullodydance:RightHandPinky2
+    100512: Fullodydance:RightHandPinky3
+    100514: Fullodydance:RightHandPinky4
+    100516: Fullodydance:RightHandRing1
+    100518: Fullodydance:RightHandRing2
+    100520: Fullodydance:RightHandRing3
+    100522: Fullodydance:RightHandRing4
+    100524: Fullodydance:RightHandThumb1
+    100526: Fullodydance:RightHandThumb2
+    100528: Fullodydance:RightHandThumb3
+    100530: Fullodydance:RightHandThumb4
+    100532: Fullodydance:RightLeg
+    100534: Fullodydance:RightShoulder
+    100536: Fullodydance:RightToeBase
+    100538: Fullodydance:RightToeEnd
+    100540: Fullodydance:RightUpLeg
+    100542: Fullodydance:Spine
+    100544: Fullodydance:Spine1
+    100546: Fullodydance:Spine2
+    100548: //RootNode
+    400000: Character_Ctrl:ChestEndEffector
+    400002: Character_Ctrl:ChestOriginEffector
+    400004: Character_Ctrl:Head
+    400006: Character_Ctrl:HeadEffector
+    400008: Character_Ctrl:Hips
+    400010: Character_Ctrl:HipsEffector
+    400012: Character_Ctrl:LeftAnkleEffector
+    400014: Character_Ctrl:LeftArm
+    400016: Character_Ctrl:LeftElbowEffector
+    400018: Character_Ctrl:LeftFingerBase
+    400020: Character_Ctrl:LeftFoot
+    400022: Character_Ctrl:LeftFootEffector
+    400024: Character_Ctrl:LeftForeArm
+    400026: Character_Ctrl:LeftHand
+    400028: Character_Ctrl:LeftHandEffector
+    400030: Character_Ctrl:LeftHandIndex1
+    400032: Character_Ctrl:LeftHandIndex2
+    400034: Character_Ctrl:LeftHandIndex3
+    400036: Character_Ctrl:LeftHandIndex4
+    400038: Character_Ctrl:LeftHandIndexEffector
+    400040: Character_Ctrl:LeftHandMiddle1
+    400042: Character_Ctrl:LeftHandMiddle2
+    400044: Character_Ctrl:LeftHandMiddle3
+    400046: Character_Ctrl:LeftHandMiddle4
+    400048: Character_Ctrl:LeftHandMiddleEffector
+    400050: Character_Ctrl:LeftHandPinky1
+    400052: Character_Ctrl:LeftHandPinky2
+    400054: Character_Ctrl:LeftHandPinky3
+    400056: Character_Ctrl:LeftHandPinky4
+    400058: Character_Ctrl:LeftHandPinkyEffector
+    400060: Character_Ctrl:LeftHandRing1
+    400062: Character_Ctrl:LeftHandRing2
+    400064: Character_Ctrl:LeftHandRing3
+    400066: Character_Ctrl:LeftHandRing4
+    400068: Character_Ctrl:LeftHandRingEffector
+    400070: Character_Ctrl:LeftHandThumb1
+    400072: Character_Ctrl:LeftHandThumb2
+    400074: Character_Ctrl:LeftHandThumb3
+    400076: Character_Ctrl:LeftHandThumb4
+    400078: Character_Ctrl:LeftHandThumbEffector
+    400080: Character_Ctrl:LeftHipEffector
+    400082: Character_Ctrl:LeftKneeEffector
+    400084: Character_Ctrl:LeftLeg
+    400086: Character_Ctrl:LeftShoulder
+    400088: Character_Ctrl:LeftShoulderEffector
+    400090: Character_Ctrl:LeftToeBase
+    400092: Character_Ctrl:LeftUpLeg
+    400094: Character_Ctrl:LeftWristEffector
+    400096: Character_Ctrl:Neck
+    400098: Character_Ctrl:Reference
+    400100: Character_Ctrl:RightAnkleEffector
+    400102: Character_Ctrl:RightArm
+    400104: Character_Ctrl:RightElbowEffector
+    400106: Character_Ctrl:RightFingerBase
+    400108: Character_Ctrl:RightFoot
+    400110: Character_Ctrl:RightFootEffector
+    400112: Character_Ctrl:RightForeArm
+    400114: Character_Ctrl:RightHand
+    400116: Character_Ctrl:RightHandEffector
+    400118: Character_Ctrl:RightHandIndex1
+    400120: Character_Ctrl:RightHandIndex2
+    400122: Character_Ctrl:RightHandIndex3
+    400124: Character_Ctrl:RightHandIndex4
+    400126: Character_Ctrl:RightHandIndexEffector
+    400128: Character_Ctrl:RightHandMiddle1
+    400130: Character_Ctrl:RightHandMiddle2
+    400132: Character_Ctrl:RightHandMiddle3
+    400134: Character_Ctrl:RightHandMiddle4
+    400136: Character_Ctrl:RightHandMiddleEffector
+    400138: Character_Ctrl:RightHandPinky1
+    400140: Character_Ctrl:RightHandPinky2
+    400142: Character_Ctrl:RightHandPinky3
+    400144: Character_Ctrl:RightHandPinky4
+    400146: Character_Ctrl:RightHandPinkyEffector
+    400148: Character_Ctrl:RightHandRing1
+    400150: Character_Ctrl:RightHandRing2
+    400152: Character_Ctrl:RightHandRing3
+    400154: Character_Ctrl:RightHandRing4
+    400156: Character_Ctrl:RightHandRingEffector
+    400158: Character_Ctrl:RightHandThumb1
+    400160: Character_Ctrl:RightHandThumb2
+    400162: Character_Ctrl:RightHandThumb3
+    400164: Character_Ctrl:RightHandThumb4
+    400166: Character_Ctrl:RightHandThumbEffector
+    400168: Character_Ctrl:RightHipEffector
+    400170: Character_Ctrl:RightKneeEffector
+    400172: Character_Ctrl:RightLeg
+    400174: Character_Ctrl:RightShoulder
+    400176: Character_Ctrl:RightShoulderEffector
+    400178: Character_Ctrl:RightToeBase
+    400180: Character_Ctrl:RightUpLeg
+    400182: Character_Ctrl:RightWristEffector
+    400184: Character_Ctrl:Spine
+    400186: Character_Ctrl:Spine1
+    400188: Character_Ctrl:Spine2
+    400190: Fullodydance:Character_Ctrl:ChestEndEffector
+    400192: Fullodydance:Character_Ctrl:ChestOriginEffector
+    400194: Fullodydance:Character_Ctrl:Head
+    400196: Fullodydance:Character_Ctrl:HeadEffector
+    400198: Fullodydance:Character_Ctrl:Hips
+    400200: Fullodydance:Character_Ctrl:HipsEffector
+    400202: Fullodydance:Character_Ctrl:LeftAnkleEffector
+    400204: Fullodydance:Character_Ctrl:LeftArm
+    400206: Fullodydance:Character_Ctrl:LeftElbowEffector
+    400208: Fullodydance:Character_Ctrl:LeftFingerBase
+    400210: Fullodydance:Character_Ctrl:LeftFoot
+    400212: Fullodydance:Character_Ctrl:LeftFootEffector
+    400214: Fullodydance:Character_Ctrl:LeftForeArm
+    400216: Fullodydance:Character_Ctrl:LeftHand
+    400218: Fullodydance:Character_Ctrl:LeftHandEffector
+    400220: Fullodydance:Character_Ctrl:LeftHandIndex1
+    400222: Fullodydance:Character_Ctrl:LeftHandIndex2
+    400224: Fullodydance:Character_Ctrl:LeftHandIndex3
+    400226: Fullodydance:Character_Ctrl:LeftHandIndex4
+    400228: Fullodydance:Character_Ctrl:LeftHandIndexEffector
+    400230: Fullodydance:Character_Ctrl:LeftHandMiddle1
+    400232: Fullodydance:Character_Ctrl:LeftHandMiddle2
+    400234: Fullodydance:Character_Ctrl:LeftHandMiddle3
+    400236: Fullodydance:Character_Ctrl:LeftHandMiddle4
+    400238: Fullodydance:Character_Ctrl:LeftHandMiddleEffector
+    400240: Fullodydance:Character_Ctrl:LeftHandPinky1
+    400242: Fullodydance:Character_Ctrl:LeftHandPinky2
+    400244: Fullodydance:Character_Ctrl:LeftHandPinky3
+    400246: Fullodydance:Character_Ctrl:LeftHandPinky4
+    400248: Fullodydance:Character_Ctrl:LeftHandPinkyEffector
+    400250: Fullodydance:Character_Ctrl:LeftHandRing1
+    400252: Fullodydance:Character_Ctrl:LeftHandRing2
+    400254: Fullodydance:Character_Ctrl:LeftHandRing3
+    400256: Fullodydance:Character_Ctrl:LeftHandRing4
+    400258: Fullodydance:Character_Ctrl:LeftHandRingEffector
+    400260: Fullodydance:Character_Ctrl:LeftHandThumb1
+    400262: Fullodydance:Character_Ctrl:LeftHandThumb2
+    400264: Fullodydance:Character_Ctrl:LeftHandThumb3
+    400266: Fullodydance:Character_Ctrl:LeftHandThumb4
+    400268: Fullodydance:Character_Ctrl:LeftHandThumbEffector
+    400270: Fullodydance:Character_Ctrl:LeftHipEffector
+    400272: Fullodydance:Character_Ctrl:LeftKneeEffector
+    400274: Fullodydance:Character_Ctrl:LeftLeg
+    400276: Fullodydance:Character_Ctrl:LeftShoulder
+    400278: Fullodydance:Character_Ctrl:LeftShoulderEffector
+    400280: Fullodydance:Character_Ctrl:LeftToeBase
+    400282: Fullodydance:Character_Ctrl:LeftUpLeg
+    400284: Fullodydance:Character_Ctrl:LeftWristEffector
+    400286: Fullodydance:Character_Ctrl:Neck
+    400288: Fullodydance:Character_Ctrl:Reference
+    400290: Fullodydance:Character_Ctrl:RightAnkleEffector
+    400292: Fullodydance:Character_Ctrl:RightArm
+    400294: Fullodydance:Character_Ctrl:RightElbowEffector
+    400296: Fullodydance:Character_Ctrl:RightFingerBase
+    400298: Fullodydance:Character_Ctrl:RightFoot
+    400300: Fullodydance:Character_Ctrl:RightFootEffector
+    400302: Fullodydance:Character_Ctrl:RightForeArm
+    400304: Fullodydance:Character_Ctrl:RightHand
+    400306: Fullodydance:Character_Ctrl:RightHandEffector
+    400308: Fullodydance:Character_Ctrl:RightHandIndex1
+    400310: Fullodydance:Character_Ctrl:RightHandIndex2
+    400312: Fullodydance:Character_Ctrl:RightHandIndex3
+    400314: Fullodydance:Character_Ctrl:RightHandIndex4
+    400316: Fullodydance:Character_Ctrl:RightHandIndexEffector
+    400318: Fullodydance:Character_Ctrl:RightHandMiddle1
+    400320: Fullodydance:Character_Ctrl:RightHandMiddle2
+    400322: Fullodydance:Character_Ctrl:RightHandMiddle3
+    400324: Fullodydance:Character_Ctrl:RightHandMiddle4
+    400326: Fullodydance:Character_Ctrl:RightHandMiddleEffector
+    400328: Fullodydance:Character_Ctrl:RightHandPinky1
+    400330: Fullodydance:Character_Ctrl:RightHandPinky2
+    400332: Fullodydance:Character_Ctrl:RightHandPinky3
+    400334: Fullodydance:Character_Ctrl:RightHandPinky4
+    400336: Fullodydance:Character_Ctrl:RightHandPinkyEffector
+    400338: Fullodydance:Character_Ctrl:RightHandRing1
+    400340: Fullodydance:Character_Ctrl:RightHandRing2
+    400342: Fullodydance:Character_Ctrl:RightHandRing3
+    400344: Fullodydance:Character_Ctrl:RightHandRing4
+    400346: Fullodydance:Character_Ctrl:RightHandRingEffector
+    400348: Fullodydance:Character_Ctrl:RightHandThumb1
+    400350: Fullodydance:Character_Ctrl:RightHandThumb2
+    400352: Fullodydance:Character_Ctrl:RightHandThumb3
+    400354: Fullodydance:Character_Ctrl:RightHandThumb4
+    400356: Fullodydance:Character_Ctrl:RightHandThumbEffector
+    400358: Fullodydance:Character_Ctrl:RightHipEffector
+    400360: Fullodydance:Character_Ctrl:RightKneeEffector
+    400362: Fullodydance:Character_Ctrl:RightLeg
+    400364: Fullodydance:Character_Ctrl:RightShoulder
+    400366: Fullodydance:Character_Ctrl:RightShoulderEffector
+    400368: Fullodydance:Character_Ctrl:RightToeBase
+    400370: Fullodydance:Character_Ctrl:RightUpLeg
+    400372: Fullodydance:Character_Ctrl:RightWristEffector
+    400374: Fullodydance:Character_Ctrl:Spine
+    400376: Fullodydance:Character_Ctrl:Spine1
+    400378: Fullodydance:Character_Ctrl:Spine2
+    400380: Fullodydance:H_DDS_MidRes
+    400382: Fullodydance:Head
+    400384: Fullodydance:HeadEnd
+    400386: Fullodydance:Hips
+    400388: Fullodydance:LeftArm
+    400390: Fullodydance:LeftEye
+    400392: Fullodydance:LeftFingerBase
+    400394: Fullodydance:LeftFoot
+    400396: Fullodydance:LeftForeArm
+    400398: Fullodydance:LeftHand
+    400400: Fullodydance:LeftHandIndex0
+    400402: Fullodydance:LeftHandIndex1
+    400404: Fullodydance:LeftHandIndex2
+    400406: Fullodydance:LeftHandIndex3
+    400408: Fullodydance:LeftHandIndex4
+    400410: Fullodydance:LeftHandMiddle1
+    400412: Fullodydance:LeftHandMiddle2
+    400414: Fullodydance:LeftHandMiddle3
+    400416: Fullodydance:LeftHandMiddle4
+    400418: Fullodydance:LeftHandPinky0
+    400420: Fullodydance:LeftHandPinky1
+    400422: Fullodydance:LeftHandPinky2
+    400424: Fullodydance:LeftHandPinky3
+    400426: Fullodydance:LeftHandPinky4
+    400428: Fullodydance:LeftHandRing1
+    400430: Fullodydance:LeftHandRing2
+    400432: Fullodydance:LeftHandRing3
+    400434: Fullodydance:LeftHandRing4
+    400436: Fullodydance:LeftHandThumb1
+    400438: Fullodydance:LeftHandThumb2
+    400440: Fullodydance:LeftHandThumb3
+    400442: Fullodydance:LeftHandThumb4
+    400444: Fullodydance:LeftLeg
+    400446: Fullodydance:LeftShoulder
+    400448: Fullodydance:LeftToeBase
+    400450: Fullodydance:LeftToeEnd
+    400452: Fullodydance:LeftUpLeg
+    400454: Fullodydance:m_L_eye
+    400456: Fullodydance:m_L_gland
+    400458: Fullodydance:m_L_trans
+    400460: Fullodydance:m_R_eye
+    400462: Fullodydance:m_R_gland
+    400464: Fullodydance:m_R_trans
+    400466: Fullodydance:m_TeethDown
+    400468: Fullodydance:m_TeethUp
+    400470: Fullodydance:master
+    400472: Fullodydance:Neck
+    400474: Fullodydance:Reference
+    400476: Fullodydance:RightArm
+    400478: Fullodydance:RightEye
+    400480: Fullodydance:RightFingerBase
+    400482: Fullodydance:RightFoot
+    400484: Fullodydance:RightForeArm
+    400486: Fullodydance:RightHand
+    400488: Fullodydance:RightHandIndex0
+    400490: Fullodydance:RightHandIndex1
+    400492: Fullodydance:RightHandIndex2
+    400494: Fullodydance:RightHandIndex3
+    400496: Fullodydance:RightHandIndex4
+    400498: Fullodydance:RightHandMiddle1
+    400500: Fullodydance:RightHandMiddle2
+    400502: Fullodydance:RightHandMiddle3
+    400504: Fullodydance:RightHandMiddle4
+    400506: Fullodydance:RightHandPinky0
+    400508: Fullodydance:RightHandPinky1
+    400510: Fullodydance:RightHandPinky2
+    400512: Fullodydance:RightHandPinky3
+    400514: Fullodydance:RightHandPinky4
+    400516: Fullodydance:RightHandRing1
+    400518: Fullodydance:RightHandRing2
+    400520: Fullodydance:RightHandRing3
+    400522: Fullodydance:RightHandRing4
+    400524: Fullodydance:RightHandThumb1
+    400526: Fullodydance:RightHandThumb2
+    400528: Fullodydance:RightHandThumb3
+    400530: Fullodydance:RightHandThumb4
+    400532: Fullodydance:RightLeg
+    400534: Fullodydance:RightShoulder
+    400536: Fullodydance:RightToeBase
+    400538: Fullodydance:RightToeEnd
+    400540: Fullodydance:RightUpLeg
+    400542: Fullodydance:Spine
+    400544: Fullodydance:Spine1
+    400546: Fullodydance:Spine2
+    400548: //RootNode
+    4300000: Fullodydance:m_TeethDown
+    4300002: Fullodydance:m_TeethUp
+    4300004: Fullodydance:m_L_gland
+    4300006: Fullodydance:m_L_eye
+    4300008: Fullodydance:m_L_trans
+    4300010: Fullodydance:m_R_gland
+    4300012: Fullodydance:m_R_eye
+    4300014: Fullodydance:m_R_trans
+    4300016: Fullodydance:H_DDS_MidRes
+    7400000: BasicA
+    7400002: Take 0010
+    9500000: //RootNode
+    13700000: Fullodydance:H_DDS_MidRes
+    13700002: Fullodydance:m_L_eye
+    13700004: Fullodydance:m_L_gland
+    13700006: Fullodydance:m_L_trans
+    13700008: Fullodydance:m_R_eye
+    13700010: Fullodydance:m_R_gland
+    13700012: Fullodydance:m_R_trans
+    13700014: Fullodydance:m_TeethDown
+    13700016: Fullodydance:m_TeethUp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BasicA
+      takeName: Take 001
+      firstFrame: 23
+      lastFrame: 121
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Ctrl:Reference
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:ChestEndEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:ChestOriginEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:HeadEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg/Character_Ctrl:LeftFoot
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg/Character_Ctrl:LeftFoot/Character_Ctrl:LeftToeBase
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg/Character_Ctrl:RightFoot
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg/Character_Ctrl:RightFoot/Character_Ctrl:RightToeBase
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandIndex1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandIndex1/Character_Ctrl:LeftHandIndex2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandIndex1/Character_Ctrl:LeftHandIndex2/Character_Ctrl:LeftHandIndex3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandIndex1/Character_Ctrl:LeftHandIndex2/Character_Ctrl:LeftHandIndex3/Character_Ctrl:LeftHandIndex4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandMiddle1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandMiddle1/Character_Ctrl:LeftHandMiddle2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandMiddle1/Character_Ctrl:LeftHandMiddle2/Character_Ctrl:LeftHandMiddle3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandMiddle1/Character_Ctrl:LeftHandMiddle2/Character_Ctrl:LeftHandMiddle3/Character_Ctrl:LeftHandMiddle4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandPinky1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandPinky1/Character_Ctrl:LeftHandPinky2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandPinky1/Character_Ctrl:LeftHandPinky2/Character_Ctrl:LeftHandPinky3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandPinky1/Character_Ctrl:LeftHandPinky2/Character_Ctrl:LeftHandPinky3/Character_Ctrl:LeftHandPinky4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandRing1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandRing1/Character_Ctrl:LeftHandRing2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandRing1/Character_Ctrl:LeftHandRing2/Character_Ctrl:LeftHandRing3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandRing1/Character_Ctrl:LeftHandRing2/Character_Ctrl:LeftHandRing3/Character_Ctrl:LeftHandRing4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftHandThumb1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftHandThumb1/Character_Ctrl:LeftHandThumb2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftHandThumb1/Character_Ctrl:LeftHandThumb2/Character_Ctrl:LeftHandThumb3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftHandThumb1/Character_Ctrl:LeftHandThumb2/Character_Ctrl:LeftHandThumb3/Character_Ctrl:LeftHandThumb4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:Neck
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:Neck/Character_Ctrl:Head
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandIndex1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandIndex1/Character_Ctrl:RightHandIndex2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandIndex1/Character_Ctrl:RightHandIndex2/Character_Ctrl:RightHandIndex3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandIndex1/Character_Ctrl:RightHandIndex2/Character_Ctrl:RightHandIndex3/Character_Ctrl:RightHandIndex4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandMiddle1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandMiddle1/Character_Ctrl:RightHandMiddle2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandMiddle1/Character_Ctrl:RightHandMiddle2/Character_Ctrl:RightHandMiddle3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandMiddle1/Character_Ctrl:RightHandMiddle2/Character_Ctrl:RightHandMiddle3/Character_Ctrl:RightHandMiddle4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandPinky1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandPinky1/Character_Ctrl:RightHandPinky2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandPinky1/Character_Ctrl:RightHandPinky2/Character_Ctrl:RightHandPinky3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandPinky1/Character_Ctrl:RightHandPinky2/Character_Ctrl:RightHandPinky3/Character_Ctrl:RightHandPinky4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandRing1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandRing1/Character_Ctrl:RightHandRing2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandRing1/Character_Ctrl:RightHandRing2/Character_Ctrl:RightHandRing3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandRing1/Character_Ctrl:RightHandRing2/Character_Ctrl:RightHandRing3/Character_Ctrl:RightHandRing4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightHandThumb1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightHandThumb1/Character_Ctrl:RightHandThumb2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightHandThumb1/Character_Ctrl:RightHandThumb2/Character_Ctrl:RightHandThumb3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightHandThumb1/Character_Ctrl:RightHandThumb2/Character_Ctrl:RightHandThumb3/Character_Ctrl:RightHandThumb4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:HipsEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftAnkleEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftElbowEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftFootEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandIndexEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandMiddleEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandPinkyEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandRingEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandThumbEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHipEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftKneeEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftShoulderEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftWristEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightAnkleEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightElbowEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightFootEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandIndexEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandMiddleEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandPinkyEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandRingEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandThumbEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHipEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightKneeEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightShoulderEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightWristEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:ChestEndEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:ChestOriginEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:HeadEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:LeftUpLeg
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:LeftUpLeg/Fullodydance:Character_Ctrl:LeftLeg
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:LeftUpLeg/Fullodydance:Character_Ctrl:LeftLeg/Fullodydance:Character_Ctrl:LeftFoot
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:LeftUpLeg/Fullodydance:Character_Ctrl:LeftLeg/Fullodydance:Character_Ctrl:LeftFoot/Fullodydance:Character_Ctrl:LeftToeBase
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:RightUpLeg
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:RightUpLeg/Fullodydance:Character_Ctrl:RightLeg
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:RightUpLeg/Fullodydance:Character_Ctrl:RightLeg/Fullodydance:Character_Ctrl:RightFoot
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:RightUpLeg/Fullodydance:Character_Ctrl:RightLeg/Fullodydance:Character_Ctrl:RightFoot/Fullodydance:Character_Ctrl:RightToeBase
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandIndex1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandIndex1/Fullodydance:Character_Ctrl:LeftHandIndex2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandIndex1/Fullodydance:Character_Ctrl:LeftHandIndex2/Fullodydance:Character_Ctrl:LeftHandIndex3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandIndex1/Fullodydance:Character_Ctrl:LeftHandIndex2/Fullodydance:Character_Ctrl:LeftHandIndex3/Fullodydance:Character_Ctrl:LeftHandIndex4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandMiddle1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandMiddle1/Fullodydance:Character_Ctrl:LeftHandMiddle2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandMiddle1/Fullodydance:Character_Ctrl:LeftHandMiddle2/Fullodydance:Character_Ctrl:LeftHandMiddle3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandMiddle1/Fullodydance:Character_Ctrl:LeftHandMiddle2/Fullodydance:Character_Ctrl:LeftHandMiddle3/Fullodydance:Character_Ctrl:LeftHandMiddle4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandPinky1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandPinky1/Fullodydance:Character_Ctrl:LeftHandPinky2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandPinky1/Fullodydance:Character_Ctrl:LeftHandPinky2/Fullodydance:Character_Ctrl:LeftHandPinky3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandPinky1/Fullodydance:Character_Ctrl:LeftHandPinky2/Fullodydance:Character_Ctrl:LeftHandPinky3/Fullodydance:Character_Ctrl:LeftHandPinky4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandRing1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandRing1/Fullodydance:Character_Ctrl:LeftHandRing2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandRing1/Fullodydance:Character_Ctrl:LeftHandRing2/Fullodydance:Character_Ctrl:LeftHandRing3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandRing1/Fullodydance:Character_Ctrl:LeftHandRing2/Fullodydance:Character_Ctrl:LeftHandRing3/Fullodydance:Character_Ctrl:LeftHandRing4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftHandThumb1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftHandThumb1/Fullodydance:Character_Ctrl:LeftHandThumb2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftHandThumb1/Fullodydance:Character_Ctrl:LeftHandThumb2/Fullodydance:Character_Ctrl:LeftHandThumb3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftHandThumb1/Fullodydance:Character_Ctrl:LeftHandThumb2/Fullodydance:Character_Ctrl:LeftHandThumb3/Fullodydance:Character_Ctrl:LeftHandThumb4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:Neck
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:Neck/Fullodydance:Character_Ctrl:Head
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandIndex1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandIndex1/Fullodydance:Character_Ctrl:RightHandIndex2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandIndex1/Fullodydance:Character_Ctrl:RightHandIndex2/Fullodydance:Character_Ctrl:RightHandIndex3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandIndex1/Fullodydance:Character_Ctrl:RightHandIndex2/Fullodydance:Character_Ctrl:RightHandIndex3/Fullodydance:Character_Ctrl:RightHandIndex4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandMiddle1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandMiddle1/Fullodydance:Character_Ctrl:RightHandMiddle2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandMiddle1/Fullodydance:Character_Ctrl:RightHandMiddle2/Fullodydance:Character_Ctrl:RightHandMiddle3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandMiddle1/Fullodydance:Character_Ctrl:RightHandMiddle2/Fullodydance:Character_Ctrl:RightHandMiddle3/Fullodydance:Character_Ctrl:RightHandMiddle4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandPinky1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandPinky1/Fullodydance:Character_Ctrl:RightHandPinky2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandPinky1/Fullodydance:Character_Ctrl:RightHandPinky2/Fullodydance:Character_Ctrl:RightHandPinky3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandPinky1/Fullodydance:Character_Ctrl:RightHandPinky2/Fullodydance:Character_Ctrl:RightHandPinky3/Fullodydance:Character_Ctrl:RightHandPinky4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandRing1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandRing1/Fullodydance:Character_Ctrl:RightHandRing2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandRing1/Fullodydance:Character_Ctrl:RightHandRing2/Fullodydance:Character_Ctrl:RightHandRing3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandRing1/Fullodydance:Character_Ctrl:RightHandRing2/Fullodydance:Character_Ctrl:RightHandRing3/Fullodydance:Character_Ctrl:RightHandRing4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightHandThumb1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightHandThumb1/Fullodydance:Character_Ctrl:RightHandThumb2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightHandThumb1/Fullodydance:Character_Ctrl:RightHandThumb2/Fullodydance:Character_Ctrl:RightHandThumb3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightHandThumb1/Fullodydance:Character_Ctrl:RightHandThumb2/Fullodydance:Character_Ctrl:RightHandThumb3/Fullodydance:Character_Ctrl:RightHandThumb4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:HipsEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftAnkleEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftElbowEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftFootEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandIndexEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandMiddleEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandPinkyEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandRingEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandThumbEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHipEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftKneeEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftShoulderEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftWristEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightAnkleEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightElbowEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightFootEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandIndexEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandMiddleEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandPinkyEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandRingEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandThumbEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHipEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightKneeEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightShoulderEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightWristEffector
+        weight: 1
+      - path: Fullodydance:H_DDS_MidRes
+        weight: 1
+      - path: Fullodydance:m_L_eye
+        weight: 1
+      - path: Fullodydance:m_L_gland
+        weight: 1
+      - path: Fullodydance:m_L_trans
+        weight: 1
+      - path: Fullodydance:m_R_eye
+        weight: 1
+      - path: Fullodydance:m_R_gland
+        weight: 1
+      - path: Fullodydance:m_R_trans
+        weight: 1
+      - path: Fullodydance:m_TeethDown
+        weight: 1
+      - path: Fullodydance:m_TeethUp
+        weight: 1
+      - path: Fullodydance:master
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:LeftUpLeg
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:LeftUpLeg/Fullodydance:LeftLeg
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:LeftUpLeg/Fullodydance:LeftLeg/Fullodydance:LeftFoot
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:LeftUpLeg/Fullodydance:LeftLeg/Fullodydance:LeftFoot/Fullodydance:LeftToeBase
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:LeftUpLeg/Fullodydance:LeftLeg/Fullodydance:LeftFoot/Fullodydance:LeftToeBase/Fullodydance:LeftToeEnd
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:RightUpLeg
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:RightUpLeg/Fullodydance:RightLeg
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:RightUpLeg/Fullodydance:RightLeg/Fullodydance:RightFoot
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:RightUpLeg/Fullodydance:RightLeg/Fullodydance:RightFoot/Fullodydance:RightToeBase
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:RightUpLeg/Fullodydance:RightLeg/Fullodydance:RightFoot/Fullodydance:RightToeBase/Fullodydance:RightToeEnd
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandIndex0
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandIndex0/Fullodydance:LeftHandIndex1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandIndex0/Fullodydance:LeftHandIndex1/Fullodydance:LeftHandIndex2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandIndex0/Fullodydance:LeftHandIndex1/Fullodydance:LeftHandIndex2/Fullodydance:LeftHandIndex3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandIndex0/Fullodydance:LeftHandIndex1/Fullodydance:LeftHandIndex2/Fullodydance:LeftHandIndex3/Fullodydance:LeftHandIndex4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandMiddle1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandMiddle1/Fullodydance:LeftHandMiddle2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandMiddle1/Fullodydance:LeftHandMiddle2/Fullodydance:LeftHandMiddle3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandMiddle1/Fullodydance:LeftHandMiddle2/Fullodydance:LeftHandMiddle3/Fullodydance:LeftHandMiddle4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandPinky0
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandPinky0/Fullodydance:LeftHandPinky1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandPinky0/Fullodydance:LeftHandPinky1/Fullodydance:LeftHandPinky2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandPinky0/Fullodydance:LeftHandPinky1/Fullodydance:LeftHandPinky2/Fullodydance:LeftHandPinky3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandPinky0/Fullodydance:LeftHandPinky1/Fullodydance:LeftHandPinky2/Fullodydance:LeftHandPinky3/Fullodydance:LeftHandPinky4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandRing1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandRing1/Fullodydance:LeftHandRing2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandRing1/Fullodydance:LeftHandRing2/Fullodydance:LeftHandRing3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandRing1/Fullodydance:LeftHandRing2/Fullodydance:LeftHandRing3/Fullodydance:LeftHandRing4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandThumb1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandThumb1/Fullodydance:LeftHandThumb2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandThumb1/Fullodydance:LeftHandThumb2/Fullodydance:LeftHandThumb3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandThumb1/Fullodydance:LeftHandThumb2/Fullodydance:LeftHandThumb3/Fullodydance:LeftHandThumb4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:Neck
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:Neck/Fullodydance:Head
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:Neck/Fullodydance:Head/Fullodydance:HeadEnd
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:Neck/Fullodydance:Head/Fullodydance:LeftEye
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:Neck/Fullodydance:Head/Fullodydance:RightEye
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandIndex0
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandIndex0/Fullodydance:RightHandIndex1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandIndex0/Fullodydance:RightHandIndex1/Fullodydance:RightHandIndex2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandIndex0/Fullodydance:RightHandIndex1/Fullodydance:RightHandIndex2/Fullodydance:RightHandIndex3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandIndex0/Fullodydance:RightHandIndex1/Fullodydance:RightHandIndex2/Fullodydance:RightHandIndex3/Fullodydance:RightHandIndex4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandMiddle1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandMiddle1/Fullodydance:RightHandMiddle2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandMiddle1/Fullodydance:RightHandMiddle2/Fullodydance:RightHandMiddle3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandMiddle1/Fullodydance:RightHandMiddle2/Fullodydance:RightHandMiddle3/Fullodydance:RightHandMiddle4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandPinky0
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandPinky0/Fullodydance:RightHandPinky1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandPinky0/Fullodydance:RightHandPinky1/Fullodydance:RightHandPinky2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandPinky0/Fullodydance:RightHandPinky1/Fullodydance:RightHandPinky2/Fullodydance:RightHandPinky3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandPinky0/Fullodydance:RightHandPinky1/Fullodydance:RightHandPinky2/Fullodydance:RightHandPinky3/Fullodydance:RightHandPinky4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandRing1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandRing1/Fullodydance:RightHandRing2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandRing1/Fullodydance:RightHandRing2/Fullodydance:RightHandRing3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandRing1/Fullodydance:RightHandRing2/Fullodydance:RightHandRing3/Fullodydance:RightHandRing4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandThumb1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandThumb1/Fullodydance:RightHandThumb2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandThumb1/Fullodydance:RightHandThumb2/Fullodydance:RightHandThumb3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandThumb1/Fullodydance:RightHandThumb2/Fullodydance:RightHandThumb3/Fullodydance:RightHandThumb4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Take 0010
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_Ctrl:Reference
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:ChestEndEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:ChestOriginEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:HeadEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg/Character_Ctrl:LeftFoot
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:LeftUpLeg/Character_Ctrl:LeftLeg/Character_Ctrl:LeftFoot/Character_Ctrl:LeftToeBase
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg/Character_Ctrl:RightFoot
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:RightUpLeg/Character_Ctrl:RightLeg/Character_Ctrl:RightFoot/Character_Ctrl:RightToeBase
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandIndex1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandIndex1/Character_Ctrl:LeftHandIndex2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandIndex1/Character_Ctrl:LeftHandIndex2/Character_Ctrl:LeftHandIndex3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandIndex1/Character_Ctrl:LeftHandIndex2/Character_Ctrl:LeftHandIndex3/Character_Ctrl:LeftHandIndex4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandMiddle1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandMiddle1/Character_Ctrl:LeftHandMiddle2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandMiddle1/Character_Ctrl:LeftHandMiddle2/Character_Ctrl:LeftHandMiddle3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandMiddle1/Character_Ctrl:LeftHandMiddle2/Character_Ctrl:LeftHandMiddle3/Character_Ctrl:LeftHandMiddle4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandPinky1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandPinky1/Character_Ctrl:LeftHandPinky2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandPinky1/Character_Ctrl:LeftHandPinky2/Character_Ctrl:LeftHandPinky3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandPinky1/Character_Ctrl:LeftHandPinky2/Character_Ctrl:LeftHandPinky3/Character_Ctrl:LeftHandPinky4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandRing1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandRing1/Character_Ctrl:LeftHandRing2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandRing1/Character_Ctrl:LeftHandRing2/Character_Ctrl:LeftHandRing3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftFingerBase/Character_Ctrl:LeftHandRing1/Character_Ctrl:LeftHandRing2/Character_Ctrl:LeftHandRing3/Character_Ctrl:LeftHandRing4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftHandThumb1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftHandThumb1/Character_Ctrl:LeftHandThumb2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftHandThumb1/Character_Ctrl:LeftHandThumb2/Character_Ctrl:LeftHandThumb3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:LeftShoulder/Character_Ctrl:LeftArm/Character_Ctrl:LeftForeArm/Character_Ctrl:LeftHand/Character_Ctrl:LeftHandThumb1/Character_Ctrl:LeftHandThumb2/Character_Ctrl:LeftHandThumb3/Character_Ctrl:LeftHandThumb4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:Neck
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:Neck/Character_Ctrl:Head
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandIndex1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandIndex1/Character_Ctrl:RightHandIndex2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandIndex1/Character_Ctrl:RightHandIndex2/Character_Ctrl:RightHandIndex3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandIndex1/Character_Ctrl:RightHandIndex2/Character_Ctrl:RightHandIndex3/Character_Ctrl:RightHandIndex4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandMiddle1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandMiddle1/Character_Ctrl:RightHandMiddle2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandMiddle1/Character_Ctrl:RightHandMiddle2/Character_Ctrl:RightHandMiddle3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandMiddle1/Character_Ctrl:RightHandMiddle2/Character_Ctrl:RightHandMiddle3/Character_Ctrl:RightHandMiddle4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandPinky1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandPinky1/Character_Ctrl:RightHandPinky2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandPinky1/Character_Ctrl:RightHandPinky2/Character_Ctrl:RightHandPinky3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandPinky1/Character_Ctrl:RightHandPinky2/Character_Ctrl:RightHandPinky3/Character_Ctrl:RightHandPinky4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandRing1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandRing1/Character_Ctrl:RightHandRing2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandRing1/Character_Ctrl:RightHandRing2/Character_Ctrl:RightHandRing3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightFingerBase/Character_Ctrl:RightHandRing1/Character_Ctrl:RightHandRing2/Character_Ctrl:RightHandRing3/Character_Ctrl:RightHandRing4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightHandThumb1
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightHandThumb1/Character_Ctrl:RightHandThumb2
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightHandThumb1/Character_Ctrl:RightHandThumb2/Character_Ctrl:RightHandThumb3
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:Hips/Character_Ctrl:Spine/Character_Ctrl:Spine1/Character_Ctrl:Spine2/Character_Ctrl:RightShoulder/Character_Ctrl:RightArm/Character_Ctrl:RightForeArm/Character_Ctrl:RightHand/Character_Ctrl:RightHandThumb1/Character_Ctrl:RightHandThumb2/Character_Ctrl:RightHandThumb3/Character_Ctrl:RightHandThumb4
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:HipsEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftAnkleEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftElbowEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftFootEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandIndexEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandMiddleEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandPinkyEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandRingEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHandThumbEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftHipEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftKneeEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftShoulderEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:LeftWristEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightAnkleEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightElbowEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightFootEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandIndexEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandMiddleEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandPinkyEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandRingEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHandThumbEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightHipEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightKneeEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightShoulderEffector
+        weight: 1
+      - path: Character_Ctrl:Reference/Character_Ctrl:RightWristEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:ChestEndEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:ChestOriginEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:HeadEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:LeftUpLeg
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:LeftUpLeg/Fullodydance:Character_Ctrl:LeftLeg
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:LeftUpLeg/Fullodydance:Character_Ctrl:LeftLeg/Fullodydance:Character_Ctrl:LeftFoot
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:LeftUpLeg/Fullodydance:Character_Ctrl:LeftLeg/Fullodydance:Character_Ctrl:LeftFoot/Fullodydance:Character_Ctrl:LeftToeBase
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:RightUpLeg
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:RightUpLeg/Fullodydance:Character_Ctrl:RightLeg
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:RightUpLeg/Fullodydance:Character_Ctrl:RightLeg/Fullodydance:Character_Ctrl:RightFoot
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:RightUpLeg/Fullodydance:Character_Ctrl:RightLeg/Fullodydance:Character_Ctrl:RightFoot/Fullodydance:Character_Ctrl:RightToeBase
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandIndex1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandIndex1/Fullodydance:Character_Ctrl:LeftHandIndex2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandIndex1/Fullodydance:Character_Ctrl:LeftHandIndex2/Fullodydance:Character_Ctrl:LeftHandIndex3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandIndex1/Fullodydance:Character_Ctrl:LeftHandIndex2/Fullodydance:Character_Ctrl:LeftHandIndex3/Fullodydance:Character_Ctrl:LeftHandIndex4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandMiddle1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandMiddle1/Fullodydance:Character_Ctrl:LeftHandMiddle2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandMiddle1/Fullodydance:Character_Ctrl:LeftHandMiddle2/Fullodydance:Character_Ctrl:LeftHandMiddle3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandMiddle1/Fullodydance:Character_Ctrl:LeftHandMiddle2/Fullodydance:Character_Ctrl:LeftHandMiddle3/Fullodydance:Character_Ctrl:LeftHandMiddle4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandPinky1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandPinky1/Fullodydance:Character_Ctrl:LeftHandPinky2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandPinky1/Fullodydance:Character_Ctrl:LeftHandPinky2/Fullodydance:Character_Ctrl:LeftHandPinky3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandPinky1/Fullodydance:Character_Ctrl:LeftHandPinky2/Fullodydance:Character_Ctrl:LeftHandPinky3/Fullodydance:Character_Ctrl:LeftHandPinky4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandRing1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandRing1/Fullodydance:Character_Ctrl:LeftHandRing2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandRing1/Fullodydance:Character_Ctrl:LeftHandRing2/Fullodydance:Character_Ctrl:LeftHandRing3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftFingerBase/Fullodydance:Character_Ctrl:LeftHandRing1/Fullodydance:Character_Ctrl:LeftHandRing2/Fullodydance:Character_Ctrl:LeftHandRing3/Fullodydance:Character_Ctrl:LeftHandRing4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftHandThumb1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftHandThumb1/Fullodydance:Character_Ctrl:LeftHandThumb2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftHandThumb1/Fullodydance:Character_Ctrl:LeftHandThumb2/Fullodydance:Character_Ctrl:LeftHandThumb3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:LeftShoulder/Fullodydance:Character_Ctrl:LeftArm/Fullodydance:Character_Ctrl:LeftForeArm/Fullodydance:Character_Ctrl:LeftHand/Fullodydance:Character_Ctrl:LeftHandThumb1/Fullodydance:Character_Ctrl:LeftHandThumb2/Fullodydance:Character_Ctrl:LeftHandThumb3/Fullodydance:Character_Ctrl:LeftHandThumb4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:Neck
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:Neck/Fullodydance:Character_Ctrl:Head
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandIndex1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandIndex1/Fullodydance:Character_Ctrl:RightHandIndex2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandIndex1/Fullodydance:Character_Ctrl:RightHandIndex2/Fullodydance:Character_Ctrl:RightHandIndex3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandIndex1/Fullodydance:Character_Ctrl:RightHandIndex2/Fullodydance:Character_Ctrl:RightHandIndex3/Fullodydance:Character_Ctrl:RightHandIndex4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandMiddle1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandMiddle1/Fullodydance:Character_Ctrl:RightHandMiddle2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandMiddle1/Fullodydance:Character_Ctrl:RightHandMiddle2/Fullodydance:Character_Ctrl:RightHandMiddle3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandMiddle1/Fullodydance:Character_Ctrl:RightHandMiddle2/Fullodydance:Character_Ctrl:RightHandMiddle3/Fullodydance:Character_Ctrl:RightHandMiddle4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandPinky1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandPinky1/Fullodydance:Character_Ctrl:RightHandPinky2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandPinky1/Fullodydance:Character_Ctrl:RightHandPinky2/Fullodydance:Character_Ctrl:RightHandPinky3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandPinky1/Fullodydance:Character_Ctrl:RightHandPinky2/Fullodydance:Character_Ctrl:RightHandPinky3/Fullodydance:Character_Ctrl:RightHandPinky4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandRing1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandRing1/Fullodydance:Character_Ctrl:RightHandRing2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandRing1/Fullodydance:Character_Ctrl:RightHandRing2/Fullodydance:Character_Ctrl:RightHandRing3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightFingerBase/Fullodydance:Character_Ctrl:RightHandRing1/Fullodydance:Character_Ctrl:RightHandRing2/Fullodydance:Character_Ctrl:RightHandRing3/Fullodydance:Character_Ctrl:RightHandRing4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightHandThumb1
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightHandThumb1/Fullodydance:Character_Ctrl:RightHandThumb2
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightHandThumb1/Fullodydance:Character_Ctrl:RightHandThumb2/Fullodydance:Character_Ctrl:RightHandThumb3
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:Hips/Fullodydance:Character_Ctrl:Spine/Fullodydance:Character_Ctrl:Spine1/Fullodydance:Character_Ctrl:Spine2/Fullodydance:Character_Ctrl:RightShoulder/Fullodydance:Character_Ctrl:RightArm/Fullodydance:Character_Ctrl:RightForeArm/Fullodydance:Character_Ctrl:RightHand/Fullodydance:Character_Ctrl:RightHandThumb1/Fullodydance:Character_Ctrl:RightHandThumb2/Fullodydance:Character_Ctrl:RightHandThumb3/Fullodydance:Character_Ctrl:RightHandThumb4
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:HipsEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftAnkleEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftElbowEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftFootEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandIndexEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandMiddleEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandPinkyEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandRingEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHandThumbEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftHipEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftKneeEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftShoulderEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:LeftWristEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightAnkleEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightElbowEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightFootEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandIndexEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandMiddleEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandPinkyEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandRingEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHandThumbEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightHipEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightKneeEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightShoulderEffector
+        weight: 1
+      - path: Fullodydance:Character_Ctrl:Reference/Fullodydance:Character_Ctrl:RightWristEffector
+        weight: 1
+      - path: Fullodydance:H_DDS_MidRes
+        weight: 1
+      - path: Fullodydance:m_L_eye
+        weight: 1
+      - path: Fullodydance:m_L_gland
+        weight: 1
+      - path: Fullodydance:m_L_trans
+        weight: 1
+      - path: Fullodydance:m_R_eye
+        weight: 1
+      - path: Fullodydance:m_R_gland
+        weight: 1
+      - path: Fullodydance:m_R_trans
+        weight: 1
+      - path: Fullodydance:m_TeethDown
+        weight: 1
+      - path: Fullodydance:m_TeethUp
+        weight: 1
+      - path: Fullodydance:master
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:LeftUpLeg
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:LeftUpLeg/Fullodydance:LeftLeg
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:LeftUpLeg/Fullodydance:LeftLeg/Fullodydance:LeftFoot
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:LeftUpLeg/Fullodydance:LeftLeg/Fullodydance:LeftFoot/Fullodydance:LeftToeBase
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:LeftUpLeg/Fullodydance:LeftLeg/Fullodydance:LeftFoot/Fullodydance:LeftToeBase/Fullodydance:LeftToeEnd
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:RightUpLeg
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:RightUpLeg/Fullodydance:RightLeg
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:RightUpLeg/Fullodydance:RightLeg/Fullodydance:RightFoot
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:RightUpLeg/Fullodydance:RightLeg/Fullodydance:RightFoot/Fullodydance:RightToeBase
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:RightUpLeg/Fullodydance:RightLeg/Fullodydance:RightFoot/Fullodydance:RightToeBase/Fullodydance:RightToeEnd
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandIndex0
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandIndex0/Fullodydance:LeftHandIndex1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandIndex0/Fullodydance:LeftHandIndex1/Fullodydance:LeftHandIndex2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandIndex0/Fullodydance:LeftHandIndex1/Fullodydance:LeftHandIndex2/Fullodydance:LeftHandIndex3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandIndex0/Fullodydance:LeftHandIndex1/Fullodydance:LeftHandIndex2/Fullodydance:LeftHandIndex3/Fullodydance:LeftHandIndex4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandMiddle1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandMiddle1/Fullodydance:LeftHandMiddle2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandMiddle1/Fullodydance:LeftHandMiddle2/Fullodydance:LeftHandMiddle3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandMiddle1/Fullodydance:LeftHandMiddle2/Fullodydance:LeftHandMiddle3/Fullodydance:LeftHandMiddle4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandPinky0
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandPinky0/Fullodydance:LeftHandPinky1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandPinky0/Fullodydance:LeftHandPinky1/Fullodydance:LeftHandPinky2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandPinky0/Fullodydance:LeftHandPinky1/Fullodydance:LeftHandPinky2/Fullodydance:LeftHandPinky3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandPinky0/Fullodydance:LeftHandPinky1/Fullodydance:LeftHandPinky2/Fullodydance:LeftHandPinky3/Fullodydance:LeftHandPinky4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandRing1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandRing1/Fullodydance:LeftHandRing2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandRing1/Fullodydance:LeftHandRing2/Fullodydance:LeftHandRing3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandRing1/Fullodydance:LeftHandRing2/Fullodydance:LeftHandRing3/Fullodydance:LeftHandRing4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandThumb1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandThumb1/Fullodydance:LeftHandThumb2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandThumb1/Fullodydance:LeftHandThumb2/Fullodydance:LeftHandThumb3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:LeftShoulder/Fullodydance:LeftArm/Fullodydance:LeftForeArm/Fullodydance:LeftHand/Fullodydance:LeftFingerBase/Fullodydance:LeftHandThumb1/Fullodydance:LeftHandThumb2/Fullodydance:LeftHandThumb3/Fullodydance:LeftHandThumb4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:Neck
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:Neck/Fullodydance:Head
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:Neck/Fullodydance:Head/Fullodydance:HeadEnd
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:Neck/Fullodydance:Head/Fullodydance:LeftEye
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:Neck/Fullodydance:Head/Fullodydance:RightEye
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandIndex0
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandIndex0/Fullodydance:RightHandIndex1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandIndex0/Fullodydance:RightHandIndex1/Fullodydance:RightHandIndex2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandIndex0/Fullodydance:RightHandIndex1/Fullodydance:RightHandIndex2/Fullodydance:RightHandIndex3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandIndex0/Fullodydance:RightHandIndex1/Fullodydance:RightHandIndex2/Fullodydance:RightHandIndex3/Fullodydance:RightHandIndex4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandMiddle1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandMiddle1/Fullodydance:RightHandMiddle2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandMiddle1/Fullodydance:RightHandMiddle2/Fullodydance:RightHandMiddle3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandMiddle1/Fullodydance:RightHandMiddle2/Fullodydance:RightHandMiddle3/Fullodydance:RightHandMiddle4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandPinky0
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandPinky0/Fullodydance:RightHandPinky1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandPinky0/Fullodydance:RightHandPinky1/Fullodydance:RightHandPinky2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandPinky0/Fullodydance:RightHandPinky1/Fullodydance:RightHandPinky2/Fullodydance:RightHandPinky3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandPinky0/Fullodydance:RightHandPinky1/Fullodydance:RightHandPinky2/Fullodydance:RightHandPinky3/Fullodydance:RightHandPinky4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandRing1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandRing1/Fullodydance:RightHandRing2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandRing1/Fullodydance:RightHandRing2/Fullodydance:RightHandRing3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandRing1/Fullodydance:RightHandRing2/Fullodydance:RightHandRing3/Fullodydance:RightHandRing4
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandThumb1
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandThumb1/Fullodydance:RightHandThumb2
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandThumb1/Fullodydance:RightHandThumb2/Fullodydance:RightHandThumb3
+        weight: 1
+      - path: Fullodydance:master/Fullodydance:Reference/Fullodydance:Hips/Fullodydance:Spine/Fullodydance:Spine1/Fullodydance:Spine2/Fullodydance:RightShoulder/Fullodydance:RightArm/Fullodydance:RightForeArm/Fullodydance:RightHand/Fullodydance:RightFingerBase/Fullodydance:RightHandThumb1/Fullodydance:RightHandThumb2/Fullodydance:RightHandThumb3/Fullodydance:RightHandThumb4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0.05
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 702a9b6327b45a04ebfa95fc4b574d62,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

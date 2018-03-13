@@ -3,33 +3,36 @@ using UnityEditor;
 using System.Collections;
 using System.Collections.Generic;
 
-[CustomEditor(typeof(LeapImageRetriever))]
-public class LeapImageRetrieverEditor : Editor {
+namespace Leap.Unity{
+  [CustomEditor(typeof(LeapImageRetriever))]
+  public class LeapImageRetrieverEditor : CustomEditorBase {
 
-  private List<string> BasicModePropertyNames = new List<string>() {
-      "m_Script",
-      "handController",
-    };
+    private GUIContent _brightTextureGUIContent;
+    private GUIContent _rawTextureGUIContent;
+    private GUIContent _distortionTextureGUIContent;
 
-  public override void OnInspectorGUI() {
-    SerializedProperty properties = serializedObject.GetIterator();
+    protected override void OnEnable() {
+      base.OnEnable();
 
-    bool useEnterChildren = true;
-    while (properties.NextVisible(useEnterChildren) == true) {
-      useEnterChildren = false;
-      if (AdvancedMode._advancedModeEnabled || BasicModePropertyNames.Contains(properties.name)) {
-        EditorGUILayout.PropertyField(properties, true);
+      _brightTextureGUIContent = new GUIContent("Bright Texture");
+      _rawTextureGUIContent = new GUIContent("Raw Texture");
+      _distortionTextureGUIContent = new GUIContent("Distortion Texture");
+    }
+
+    public override void OnInspectorGUI() {
+      base.OnInspectorGUI();
+
+      if (Application.isPlaying) {
+        LeapImageRetriever retriever = target as LeapImageRetriever;
+        var data = retriever.TextureData;
+        var dataType = typeof(Object);
+
+        EditorGUI.BeginDisabledGroup(true);
+        EditorGUILayout.ObjectField(_brightTextureGUIContent, data.BrightTexture.CombinedTexture, dataType, true);
+        EditorGUILayout.ObjectField(_rawTextureGUIContent, data.RawTexture.CombinedTexture, dataType, true);
+        EditorGUILayout.ObjectField(_distortionTextureGUIContent, data.Distortion.CombinedTexture, dataType, true);
+        EditorGUI.EndDisabledGroup();
       }
     }
-
-    SerializedProperty eyeProperty = serializedObject.FindProperty("retrievedEye");
-    if (eyeProperty.enumValueIndex == -1) {
-      LeapImageRetriever retrieverScript = target as LeapImageRetriever;
-      bool containsLeft = retrieverScript.gameObject.name.ToLower().Contains("left");
-      eyeProperty.enumValueIndex = containsLeft ? (int)LeapImageRetriever.EYE.LEFT : (int)LeapImageRetriever.EYE.RIGHT;
-    }
-
-    serializedObject.ApplyModifiedProperties();
   }
-
 }
